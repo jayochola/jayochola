@@ -1,100 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ochola</h1>
-<h3 align="center">A passionate developer</h3>
+# Hi there, I’m Ochola 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayochola&label=Profile%20views&color=0e75b6&style=flat" alt="jayochola" />
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Ochola!&fontColor=ffffff&fontSize=40&animation=fadeIn)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<p align="center">
-  <a href="https://twitter.com/james_ochola_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/james_ochola_?logo=twitter&style=for-the-badge" alt="james_ochola_" />
-  </a>
-</p>
+I’m a passionate **software developer** with experience in:
 
-### 🌱 I’m currently learning 
-**React, Power BI, and Machine Learning**
+- 🐍 **Python**  
+- 🌐 **HTML, CSS**  
+- 🐘 **PHP**
 
-### 💬 Ask me about 
-**PHP**
 
-### 📫 How to reach me 
-**jamesochola18@gmail.com**
 
-### ⚡ Fun fact
-**I think I’m funny 😂**
+I enjoy building efficient, scalable, and user-friendly applications.  
+Always eager to learn new technologies and contribute to meaningful projects.
 
 ---
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://twitter.com/james_ochola_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/jamesochola1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+## 💡 About Me
+- 💻 Backend & web development enthusiast 
+- 💻 Currrently  learning powerbi and Ml
+- 📚 Lifelong learner  
+- 💬 Ask me about **PHP** — happy to help!  
+- 😄 Fun fact: I *think* I’m funny… you be the judge!
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+## 🚀 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" /><br>Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" /><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" /><br>PHP
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" /><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" /><br>Photoshop
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50" /><br>Scala
-    </td>
-    <td align="center"> 
-      <!-- Add extra tools if needed -->
-    </td>
-    <td align="center"> 
-      <!-- Add extra tools if needed -->
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ocholajay">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayochola&" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
+
+![Ochola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayochola&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayochola&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayochola&theme=default)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james_ochola1)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/james_ochola1)  
+Portfolio= False
+
+---
+
+Thanks for visiting my profile!  
+⭐ Feel free to explore my repositories and reach out for collaborations.
