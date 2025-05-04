@@ -20,7 +20,7 @@
 ### 📫 How to reach me 
 **jamesochola18@gmail.com**
 
-### ⚡ Fun fact: 
+### ⚡ Fun fact
 **I think I’m funny 😂**
 
 ---
